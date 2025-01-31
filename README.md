@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 RICHARD KASOMI;
 👋 Hey there! I'm a passionate frontend developer who loves crafting sleek and responsive experiences.<br><br>🔹 Skills:<br><br>🌐 HTML & CSS – Building beautiful and user-friendly web interfaces<br>⚡ JavaScript – Adding interactivity and dynamic features<br>📱 Dart & Flutter – Creating smooth and powerful mobile apps<br>🚀 Always learning, coding, and experimenting with new technologies!<br><br>💡 Let's connect and create something amazing! 😃
 
 
